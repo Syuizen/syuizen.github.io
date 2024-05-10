@@ -65,7 +65,6 @@ sections:
         - title: Optimisation Consultant
           company: Edinburgh Airport
           company_url: 'https://www.edinburghairport.com/'
-          company_logo: edi_logo
           location: Edinburgh, United Kingdom
           date_start: '2024-04-01'
           date_end: ''
@@ -77,7 +76,6 @@ sections:
         - title: Data Science (PhD intern)
           company: Tesco
           company_url: 'https://www.tesco.com/'
-          company_logo: org-x
           location: London, United Kingdom
           date_start: '2023-08-01'
           date_end: '2023-11-24'
