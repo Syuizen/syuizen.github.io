@@ -77,7 +77,7 @@ sections:
         - title: Data Science (PhD intern)
           company: Tesco
           company_url: 'https://www.tesco.com/'
-          company_logo: tesco_logo
+          company_logo: org-x
           location: London, United Kingdom
           date_start: '2023-08-01'
           date_end: '2023-11-24'
