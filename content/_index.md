@@ -70,9 +70,8 @@ sections:
           date_start: '2024-04-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
               • Designing anddeveloping staff scheduling optimisation models for security team managements.
+
               • Developing front‑end UI for stakeholders to validate and manipulate the scheduling.
         - title: Data Science (PhD intern)
           company: Tesco
@@ -81,7 +80,29 @@ sections:
           location: London, United Kingdom
           date_start: '2023-08-01'
           date_end: '2023-11-24'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              • Developing heuristic and exact methods for warehouse strategic level VRP (Vehicle Routing Problem) routing, aiming to optimise logistic network organisation and minimise the total costs of operating and transporting.
+
+              • Collaborated with a cross‑functional team to ensure the seamless integration of routing solutions into Tesco’s supply chain infrastructure.
+        - title: Research Scientist (intern)
+          company: Huawei Tech. R&D (UK) Ltd.
+          company_url: 'https://blogs.ed.ac.uk/he-lab/'
+          company_logo: huawei_logo
+          location: Edinburgh, United Kingdom
+          date_start: '2022-08-12'
+          date_end: '2022-11-30'
+          description: |2-
+              • Developed an incremental optimisation framework for unsupervised indoor positioning using WiFi signal data and heuristic algorithms. Improved position re‑optimization by analyzing graph density, and tailoring statistical kernel functions. This work was integrated into the production.
+
+              • Conducted side research projects on pose graph optimization, image filtering for positioning map separation, and map matching.
+        - title: Best Inc.
+          company_url: 'https://www.best-inc.com/'
+          company_logo: best_logo
+          location: Hangzhou, China
+          date_start: '2020-03-01'
+          date_end: '2020-08-20'
+          description: |2-
+
     design:
       columns: '2'
   - block: accomplishments
