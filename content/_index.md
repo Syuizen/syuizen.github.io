@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: github.syuizen.experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
