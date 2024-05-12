@@ -95,13 +95,20 @@ sections:
               • Developed an incremental optimisation framework for unsupervised indoor positioning using WiFi signal data and heuristic algorithms. Improved position re‑optimization by analyzing graph density, and tailoring statistical kernel functions. This work was integrated into the production.
 
               • Conducted side research projects on pose graph optimization, image filtering for positioning map separation, and map matching.
-        - title: Best Inc.
+        - title: Operations Research Scientist
+          company: Best Inc.
           company_url: 'https://www.best-inc.com/'
           company_logo: best_logo
           location: Hangzhou, China
           date_start: '2020-03-01'
           date_end: '2020-08-20'
           description: |2-
+              • Developed an aggregated GBDT and NLR model to forecast future orders for warehouses. Successfully implemented the model across more than
+                40 warehouses in China, resulting in a significant reduction in stockouts and improved inventory management.
+
+              • Collaborated with a cross‑functional team on a SMART retail replenishment project. Led the preparation of structured SQL tables using Spark SQL
+                from 20+ raw datasets and analyzed data to identify core system inefficiencies. Contributed to the development of a new inventory management
+                system that improved store inventory turnover rato by 15%.
 
     design:
       columns: '2'
